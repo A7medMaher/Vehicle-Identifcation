@@ -17,5 +17,3 @@ https://www.youtube.com/watch?v=0envCtv_7DI
 If you found that the available codes were useful in your academic work, please consider to cite:
 
 https://dl.acm.org/citation.cfm?id=3321311
-
-vehicle identification.PNG
